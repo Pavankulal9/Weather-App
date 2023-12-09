@@ -1,6 +1,6 @@
-# Project Name
+# Whether App
 
-Brief description of your awesome whether application.
+ A simple Whether forecast application with butter UI experience done with javascript. 
 
 ## Features
 
