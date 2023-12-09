@@ -1,11 +1,11 @@
-# Whether App
+# Weather App
 
- A simple Whether forecast application with butter UI experience done with javascript. 
+ A simple Weather forecast application with butter UI experience done with javascript. 
 
 ## Features
 
 - Feature 1:
-  You can check  current day whether forecast with humidity and wind speed of any place just by adding the name of the place in the search bar and   click search.
+  You can check  current day weather forecast with humidity and wind speed of any place just by adding the name of the place in the search bar and   click search.
 
 ## Tech Stack
 
