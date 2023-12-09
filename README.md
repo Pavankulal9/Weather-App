@@ -17,7 +17,7 @@
 - Main Page
 <img src="https://res.cloudinary.com/dnh2skxdh/image/upload/v1702097795/whether%20app/whetherApp_main_page_nugqz9.png"/>
 
-- searched place Bangalore
+- Searched a place: eg:Bangalore
 <img src="https://res.cloudinary.com/dnh2skxdh/image/upload/v1702097807/whether%20app/whetherApp_demo_n4ejsl.png"/>
 
 ## License
@@ -30,6 +30,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [LinkedIn](https://www.linkedin.com/in/pavan-kulal-0a105b268/)
 
 ---
-
-Happy coding! 🚀
-#MyFirstProject 
+#MyFirstProject 🚀
