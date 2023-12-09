@@ -14,12 +14,11 @@
 - Whether API:
 
 ## Screenshots
+- Main Page
+<img src="https://res.cloudinary.com/dnh2skxdh/image/upload/v1702097795/whether%20app/whetherApp_main_page_nugqz9.png"/>
 
-Include some screenshots or GIFs of your application in action.
-
-## Contributing
-
-Contributions are welcome! Please check the [contribution guidelines](CONTRIBUTING.md).
+- searched place Bangalore
+<img src="https://res.cloudinary.com/dnh2skxdh/image/upload/v1702097807/whether%20app/whetherApp_demo_n4ejsl.png"/>
 
 ## License
 
