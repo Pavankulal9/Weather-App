@@ -1,17 +1,17 @@
 # Weather App
 
- A simple Weather forecast application with butter UI experience done with javascript. 
+ A simple Weather forecast application which provides weather forecaste of any loction and made with butter UI experience done with famouse web programming language javascript.
 
 ## Features
 
 - Feature 1:
-  You can check  current day weather forecast with humidity and wind speed of any place just by adding the name of the place in the search bar and   click search.
+  You can check current day weather forecast with humidity and wind speed of any place just by adding the name of the place in the search bar and click search or enter button.
 
 ## Tech Stack
 
 - JavaScript
 - HTML,CSS
-- Whether API:
+- Whether API: https://api.weatherapi.com
 
 ## Screenshots
 - Main Page
